@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'chat_page.dart';
+import 'chatting_screen.dart';
 
 class WelcomeScreen extends StatelessWidget
 {
