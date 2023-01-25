@@ -1,4 +1,4 @@
-import 'package:final_chatgpt/screens/welcome_screen.dart';
+import 'package:chatgpt_aibot/screens/welcome_screen.dart';
 import 'package:flutter/material.dart';
 
 
