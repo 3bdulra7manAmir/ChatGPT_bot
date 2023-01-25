@@ -14,7 +14,7 @@ class WelcomeScreen extends StatelessWidget
       (
         title: const Text
         (
-          "Welcome... Ya Sakka! 🙄",
+          "Welcome...! 🙄",
           style: TextStyle(fontSize: 20),
         ),
       ),
